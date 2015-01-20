@@ -1,6 +1,6 @@
 #-------------------------------------------------------------
 #   @Objective: it's a function to create an object
-#               that can store and set the original 
+#               that can read and set the original 
 #               and the inversed matrix.
 #   @author:    Peter Wang
 #   @date:      Jan, 20, 2015
